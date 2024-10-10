@@ -39,3 +39,4 @@ build/
 
 ###Test####
 /src/test/
+/src/main/java/ru/sorokin/javacore/hw/oop/
